@@ -1,7 +1,5 @@
 # EX 2 -Virtualization-Addition-
-# EX 2 -Virtualization
-
-## NAME:  Ganeh S
+## NAME:  Ganesh S
 ## REGNO: 212222040042
 
 ## Objective:
